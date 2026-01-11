@@ -1,4 +1,5 @@
 Responsive E-commerce Website
+
 This is a clean, multi-page e-commerce website built with HTML, CSS, and JavaScript. The goal of this project was to create a functional and easy-to-navigate online store that works perfectly on phones, tablets, and desktops.
 
 What’s inside:
