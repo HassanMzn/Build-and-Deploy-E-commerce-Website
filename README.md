@@ -12,8 +12,7 @@ What’s inside:
 Mobile Friendly: A responsive menu and layout that adjusts to any screen size.
 Modern Layouts: Built using Flexbox and CSS Grid for a clean look.
 
-+ Tech used:
-
+Tech used:
 HTML5 for the structure.
 CSS3 for the styling and mobile responsiveness.
 JavaScript for the navigation menu and basic interactivity.
